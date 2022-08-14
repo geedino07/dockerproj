@@ -1,2 +1,2 @@
 # dockerproj
-for a docker workflow
+for a docker workflow project
